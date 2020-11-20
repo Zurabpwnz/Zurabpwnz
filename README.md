@@ -1,6 +1,6 @@
 ## Hi, I'am Zurab Shivarbidze 👋, :man:🏾‍:computer:
 
-![universe-frame](https://drive.google.com/file/d/10t0ytkgBu2YlfduRDLdW0EJX5OEAKB_g/view?usp=sharing "Coding")
+![universe-frame](https://techrocks.ru/wp-content/uploads/2020/08/banner.png "Coding")
 
 [![Gmail Badge](https://img.shields.io/badge/-zybpwnz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zybpwnz@gmail.com)](mailto:zybpwnz@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-zurabpwnz-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zurabpwnz/)](https://www.linkedin.com/in/zurabpwnz/) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/zurabpwnz) [![Github Badge](https://img.shields.io/badge/-Zurabpwnz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Zurabpwnz/)](https://www.github.com/Zurabpwnz/) [![Twitter Badge](https://img.shields.io/badge/-Zura_Batumskiy-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Zura_Batumskiy/)](https://www.twitter.com/Zura_Batumskiy/)  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=webdevlair.com/)](webdevlair.com/) 
