@@ -3,6 +3,16 @@
 <!--
 **Zurabpwnz/Zurabpwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Hey 👋, This is Zurab Shivarbidze
+[![Gmail Badge](https://img.shields.io/badge/-zybpwnz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zybpwnz@gmail.com)](mailto:zybpwnz@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-zurabpwnz-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zurabpwnz/)](https://www.linkedin.com/in/zurabpwnz/) [![Github Badge](https://img.shields.io/badge/-Zurabpwnz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Zurabpwnz/)](https://www.github.com/Zurabpwnz/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=webdevlair.com/)](webdevlair.com/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Zurabpwnz alt=Zurabpwnz /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Zurabpwnz&show_icons=true&include_all_commits=true)](https://github.com/Zurabpwnz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zurabpwnz&layout=compact)](https://github.com/Zurabpwnz/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
