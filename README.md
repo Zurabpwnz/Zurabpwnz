@@ -1,4 +1,4 @@
-## Hi, I'am Zurab Shivarbidze 👋, :man:🏾‍:computer:
+## Hi, I'am Zurab Shyvarbidze 👋, :man:🏾‍:computer:
 
 ![alt text](https://zurab.webdevlair.com/code.png "Coding")
 
