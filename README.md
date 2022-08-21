@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on WordPress Theme
+- 🔭 I’m currently working on WordPress Theme & Plugins
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
