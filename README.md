@@ -22,3 +22,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Skills
+
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
+![Gutenberg](https://img.shields.io/badge/Gutenberg-black?style=for-the-badge&logo=gutenberg&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=php&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=black)
+![Laravel Nova](https://img.shields.io/badge/Nova-252D37?style=for-the-badge&logo=laravel-nova&logoColor=white)
+![ClickUp](https://img.shields.io/badge/Clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
